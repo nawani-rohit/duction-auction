@@ -1,5 +1,5 @@
-###Basic dutch auction
-###Hosted at IPNS url:
+##Basic dutch auction
+##Hosted at IPNS url:
 https://ipfs.io/ipns/k51qzi5uqu5dk1cgyrxi5ctknxw1zwhyp4kz8viu2ocj1a9kml6ze61txfc4ao
 
 This application demonstrates working of a simple web3 application - A Basic Dutch Auction
